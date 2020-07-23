@@ -6,7 +6,7 @@ There are multiple methods to getting emails to send through React. You can use 
 
 We are going to be using EmailJs!
 
-**This not not include saving information via form to your backend**
+**This does not include saving information via form to your backend**
 
 Service we are using: https://www.emailjs.com/
 
