@@ -22,8 +22,7 @@ Service we are using: https://www.emailjs.com/
 \
 **Step 6:** Lines of code to copy are...\
         **1.** import emailjs from "emailjs-com";\
-        **2.**  
-        function sendEmail(e) {\
+        **2.**  function sendEmail(e) {\
               e.preventDefault();\
              emailjs.sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID')\
               .then((result) => {\
