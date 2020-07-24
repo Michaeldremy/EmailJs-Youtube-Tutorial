@@ -29,10 +29,10 @@ Service we are using: https://www.emailjs.com/
             }\
 \
 **Step 7.** We need to fill out the 3 of 4 parameters after sendForm. Pro-tip if you hover over sendForm in your code editor it will tell you what they paramerters mean.\
-        1. "YOUR_SERVICE_ID" this is the type of email server you are using\
-        2. "YOUR_TEMPLATE_ID" this is the templateID when you create a template within the EmailJs website.\
-        3. e.target is related to what the user is typing through your form, leave this one alone.\
-        4. "YOUR_USER_ID" is your API Key to get to this you need to click on your name in the top right, in my instance it was "Michael Remy" after clicking your name you will then click on "API KEYS" then you want to copy your User ID:\
+        **1.** "YOUR_SERVICE_ID" this is the type of email server you are using\
+        **2.** "YOUR_TEMPLATE_ID" this is the templateID when you create a template within the EmailJs website.\
+        **3.** e.target is related to what the user is typing through your form, leave this one alone.\
+        **4.** "YOUR_USER_ID" is your API Key to get to this you need to click on your name in the top right, in my instance it was "Michael Remy" after clicking your name you will then click on "API KEYS" then you want to copy your User ID:\
 **Step 8.** That's it! If you created your React form correctly and you are calling the function "sendEmail" on your form onSubmit then your templated email should be sent to you!\
 \
 I hope you find this very helpful in being able to send emails to yourself through React.\
