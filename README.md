@@ -1,6 +1,6 @@
 # EmailJs-Youtube-Tutorial
 
-Link to video: 
+Link to video: https://www.youtube.com/watch?v=NgWGllOjkbs&feature=youtu.be
 
 There are multiple methods to getting emails to send through React. You can use Nodemailer, use express backend methods and so many others. 
 
